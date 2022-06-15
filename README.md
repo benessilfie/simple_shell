@@ -294,8 +294,8 @@ $
 
 ## Authors
 
-* Benjamin Essilfie Ofori-Quansah <[Essilfie]((https://github.com/essilfiequansah))>
-* Ihedioha Ezinwa Ezinma <[Ezinma]([https://github.com/2003Ezinwa])>
+* Benjamin Essilfie Ofori-Quansah [Essilfie]((https://github.com/essilfiequansah))
+* Ihedioha Ezinwa Ezinma [Ezinma]([https://github.com/2003Ezinwa])
 
 ## More information
 
